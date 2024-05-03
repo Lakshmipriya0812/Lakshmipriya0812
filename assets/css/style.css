@@ -274,7 +274,7 @@
 /* skills section starts */
 
 .skills {
-    background: #189ebc;
+    background: white;
 }
 
 
@@ -336,11 +336,11 @@
 
 /* certs start */
 .certs {
-    background-color: #132156;
+    background-color: white;
 }
 
 .certs h2 {
-    color: white;
+    color: black;
 }
 
 
