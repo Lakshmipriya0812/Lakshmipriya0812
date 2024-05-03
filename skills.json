@@ -1,63 +1,47 @@
 [
     {
-        "name": "Project Planning",
-        
-        
+        "name": "Project Planning" 
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "Project Execution"  
     },
     {
-        "name": "Flask",
-        "icon": "https://img.icons8.com/ios/48/flask.png"
+        "name": "Project Closing"  
     },
     {
-        "name": "Linux",
-        "icon": "https://img.icons8.com/color/48/linux--v1.png"
+        "name": "Team Collaboration"
     },
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "name": "Technical Communication"
     },
     {
-        "name": "GCP",
-        "icon": "https://img.icons8.com/color/48/google-cloud.png"
+        "name": "Workflow Management"
     },
     {
-        "name": "Docker",
-        "icon": "https://img.icons8.com/fluency/48/docker.png"
+        "name": "Agile Methodologies like Scrum & Kanban"
     },
     {
-        "name": "kubernetes",
-        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+        "name": "Resource Allocations"
     },
     {
-        "name": "Helm",
-        "icon": "https://img.icons8.com/external-dreamstale-lineal-dreamstale/48/external-helm-gaming-dreamstale-lineal-dreamstale.png"
+        "name": "Asana"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "Jira"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Microsoft Project"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "MySQL"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Advanced Excel"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/000000/github.png"
+        "name": "Microsoft 365"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    }
+        "name": "GitHub"
+    }    
 ]
