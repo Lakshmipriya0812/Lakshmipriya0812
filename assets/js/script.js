@@ -114,7 +114,7 @@ function showSkills(skills) {
     skillHTML += `
       <div class="bar">
             <div class="info">
-              <img width="500" height="500" src=${skill.icon} alt="skill" />
+              <img width="50" height="50" src=${skill.icon} alt="skill" />
               <span>${skill.name}</span>
             </div>
           </div>`
