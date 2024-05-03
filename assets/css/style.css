@@ -110,7 +110,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
+}F
 
 .row section .details .title {
     font-size: 22px;
@@ -174,7 +174,7 @@
 
 /* start typing text */
 .typed {
-    color: #FF7979
+    color: #0c0c0cfd
 }
 
 /*Add custom cursor so it auto inherits font styles*/
