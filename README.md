@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Welcome to my portfolio! This project showcases my skills and experiences as a software developer. It is built with a range of technologies and demonstrates my expertise in front-end.
+Welcome to my portfolio! This project showcases my skills and experiences as a software developer. It is built with a range of technology and demonstrates my expertise in front-end.
 
 ## Technology Used
 - **Languages**: HTML, CSS, JavaScript.
